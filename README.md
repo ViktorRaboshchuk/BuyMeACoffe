@@ -1,4 +1,4 @@
-## Solidity Smark Contract with tip and withdraw tips(only by owner) functionality.
+#### Solidity Smark Contract with tip and withdraw tips(only by owner) functionality.
 
 ###### [Tests](https://github.com/ViktorRaboshchuk/BuyMeACoffe/blob/origin/test/tests.ts)
 
