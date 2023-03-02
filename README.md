@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+## Solidity Smark Contract with tip and withdraw tips(only by owner) functionality.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+###### [Tests] (https://github.com/ViktorRaboshchuk/BuyMeACoffe/blob/origin/test/tests.ts)
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+###### Tests coverage [GitHub Workflows](https://github.com/ViktorRaboshchuk/BuyMeACoffe/actions/runs/4314651923/jobs/7527960207)
